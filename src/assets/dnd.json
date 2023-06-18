@@ -1,0 +1,57 @@
+[
+  {
+    "id": "0001",
+    "name": "At'ara",
+    "class": "warrior",
+    "race": "elf",
+    "origin": "Val'rah",
+    "affiliates": [
+      "Rha'sa",
+      "Vir'thas"
+    ]
+  },
+  {
+    "id": "0002",
+    "name": "Barnabas",
+    "class": "archmage",
+    "race": "demon",
+    "origin": "Narakkah",
+    "affiliates": [
+      "Fulgures",
+      "Baraja"
+    ]
+  },
+  {
+    "id": "0003",
+    "name": "Beppo",
+    "class": "gunner",
+    "race": "dwarf",
+    "origin": "Gomorunth",
+    "affiliates": [
+      "Belldor",
+      "Deyttor",
+      "Krroma"
+    ]
+  },
+  {
+    "id": "0004",
+    "name": "Pharasy",
+    "class": "assassin",
+    "race": "human",
+    "origin": "Khalaffa",
+    "affiliates": [
+      "Akshara"
+    ]
+  },
+  {
+    "id": "0005",
+    "name": "Rha'sa",
+    "class": "archer",
+    "race": "elf",
+    "origin": "Val'rah",
+    "affiliates": [
+      "At'ara",
+      "Vir'thas"
+    ]
+  }
+]
